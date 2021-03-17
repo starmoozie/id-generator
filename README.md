@@ -6,7 +6,7 @@
 
 # Tambahkan pada model
 
-use Starmoozie\\IdGenerator\\IdGenerator;
+use Starmoozie\IdGenerator\IdGenerator;
 
 public static function boot()
 {
